@@ -16,10 +16,10 @@
 ### Languages ​​and technologies:
 ##
 <div style="display: inline-block" >
-<img align="center" alt="htm5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/>
-<img align="center" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/>
 <img align="center" alt="Java" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="50"/>
 <img align="center" alt="Spring Boot" src="https://alex-bezverkhniy.github.io/images/spring-boot/spring-boot-logo.png" width="50"/>
+<!-- <img align="center" alt="htm5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/>
+<img align="center" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/> -->
 <img align="center" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/>
 <img align="center" alt="next" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original-wordmark.svg" width="50"/>
 <img align="center" alt="redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50"/>
