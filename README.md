@@ -22,8 +22,8 @@
 <img align="center" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/> -->
 <img align="center" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/>
 <img align="center" alt="next" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original-wordmark.svg" width="50"/>
-<img align="center" alt="redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50"/>
-<img align="center" alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
+<!-- <img align="center" alt="redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50"/> -->
+<!-- <img align="center" alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/> -->
 <img align="center" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
 <img align="center" alt="typescript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" width="50"/>
 <img align="center" alt="github" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg" width="50"/>
